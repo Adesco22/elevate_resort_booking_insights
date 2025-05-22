@@ -1,4 +1,3 @@
-
 # Elevate Resort – Booking & Revenue Insights Dashboard (Power BI)
 
 ## Overview

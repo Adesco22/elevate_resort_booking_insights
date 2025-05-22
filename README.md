@@ -44,7 +44,7 @@ Custom columns and metrics created using DAX:
 - Slicers for interactivity (Booking Status, Year, Country, Segment)
 
 ## Screenshots
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](/dashboard-preview_.jpeg)
 
 ---
 
